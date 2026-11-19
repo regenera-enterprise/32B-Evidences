@@ -1,0 +1,7 @@
+REGENERA 32B VALIDATION SOFTWARE
+lm_eval=0.4.14.dev0
+transformers=5.23.0
+torch=2.15.0
+numpy=2.5.5
+mlx=unknown
+mlx_lm=0.32.2

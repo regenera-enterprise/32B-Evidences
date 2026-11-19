@@ -1,0 +1,23 @@
+REGENERA 32B VALIDATION
+GIT EVIDENCE RECORD
+
+Repository:
+https://github.com/regenera-enterprise/32b-validation.git
+
+Evidence commit:
+35b68231839dbed6db2cc9e49f73334642f41106
+
+Signatory:
+Don Paulo Ricardo de Leão
+
+Role:
+Developer Senior
+
+ORCID:
+0009-0002-1934-3559
+
+Organization:
+Regenera Corporate
+
+DOI:
+10.5281/zenodo.24374500

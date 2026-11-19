@@ -1,0 +1,27 @@
+REGENERA CORPORATE
+
+REGENERA 32B VALIDATION
+
+Author / Signatory:
+Don Paulo Ricardo de Leão
+
+Role:
+Developer Senior
+
+ORCID:
+0009-0002-1934-3559
+
+Organization:
+Regenera Corporate
+
+Repository:
+https://github.com/regenera-enterprise/32b-validation.git
+
+Persistent Identifier:
+DOI: 10.5281/zenodo.24374500
+
+DOI status at package creation:
+Reserved DOI — Zenodo draft
+
+Signature algorithm:
+Ed25519

@@ -1,0 +1,17 @@
+Arquivo original: avaliacao-regenera.rtf
+SHA-256 original: bd3e9d80277e9e8f1af29a3608ecc6d7a626f244440f1aa3a4f01e741bb1b0c1
+Linhas: 18600 e 19988-19998. Sequências de formatação RTF removidas.
+
+WARNING:lm_eval.evaluator:Overwriting default num_fewshot of belebele_por_Latn from None to 0
+
+{
+  "belebele_por_Latn": {
+    "name": "belebele_por_Latn",
+    "alias": "belebele_por_Latn",
+    "sample_len": 900,
+    "acc,none": 0.8344444444444444,
+    "acc_stderr,none": 0.012396262021376064,
+    "acc_norm,none": 0.8344444444444444,
+    "acc_norm_stderr,none": 0.012396262021376064
+  }
+}

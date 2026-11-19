@@ -1,0 +1,34 @@
+REGENERA 32B VALIDATION
+CRYPTOGRAPHIC EVIDENCE CHAIN
+
+Regenera 32B
+→ SHA-256 hashes of 7 model weight files
+→ model configuration
+→ tokenizer artifacts
+→ runtime environment
+→ software versions
+→ evaluation protocol
+→ Belebele por_Latn
+→ dataset revision 7899cdfa4e1e0d733fd77c848e2c273cb1d32be2
+→ test split
+→ zero-shot evaluation
+→ 900 samples
+→ 751 correct responses
+→ 83.44444444444444% accuracy
+→ complete 900-response JSON
+→ aggregate metrics
+→ SHA-256 manifests
+→ Ed25519 signatures
+→ Ed25519 public key
+→ public-key fingerprint
+→ Don Paulo Ricardo de Leão
+→ Developer Senior
+→ ORCID 0009-0002-1934-3559
+→ Regenera Corporate
+→ Git repository https://github.com/regenera-enterprise/32b-validation.git
+→ signed Git evidence commit
+→ signed Git provenance commit
+→ signed Git tag
+→ DOI 10.5281/zenodo.24374500
+→ Zenodo DOI reserved
+→ Zenodo publication pending

@@ -1,0 +1,7 @@
+REGENERA 32B VALIDATION
+
+Historical evaluation command:
+NOT RECOVERED FROM LOCAL SHELL HISTORY.
+
+The evaluation protocol, complete response record, runtime metadata,
+software versions and cryptographic hashes are preserved separately.

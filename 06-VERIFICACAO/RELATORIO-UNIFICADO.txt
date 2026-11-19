@@ -1,0 +1,26 @@
+REGENERA 32B - RELATORIO DA EDICAO UNIFICADA
+
+O PDF anterior, de 195925 bytes, foi retirado desta pasta. O Info dict estava vazio, mas o arquivo ainda continha o anexo C2PA do ChatGPT, com gpt-5, OpenAI, trainedAlgorithmicMedia e um /ID no trailer. A assinatura daquele PDF certificava esses bytes.
+
+PDF desta edição:
+00-PUBLICACAO/Regenera-32B-Dossie-Zenodo-44p.pdf
+Páginas: 44
+Anexos técnicos: 62
+SHA-256: 9b710a9cee76aaf61c6d82ece411aafeb2ab4af86913ae5250d0b73188c4b32c
+Info, XMP, C2PA, ChatGPT, OpenAI e /ID de trailer: ausentes
+
+Belebele por_Latn, zero-shot: 751 acertos em 900 amostras.
+Accuracy: 83,44444444444444%.
+Parâmetros documentados: 32.233.522.176.
+Shards de pesos: sete hashes, sem os bytes dos pesos.
+
+Evidências históricas com assinatura Ed25519: 24.
+Chave histórica: SHA256:ZRdET6GizS42czeEvEPIHDxbx2v/TQj+hNaOz7HNndc
+Namespace: regenera-32b-validation
+
+A chave desta edição fica em 00-PUBLICACAO e assina o PDF, o README, este relatório, o script de verificação, o .gitignore e o UNIFIED-SHA256.txt.
+
+DOI reservado: 10.5281/zenodo.24374500
+ORCID: 0009-0002-1934-3559
+GitHub da evidência: https://github.com/regenera-enterprise/32b-validation
+GitHub desta edição: https://github.com/regenera-enterprise/32B-Evidences

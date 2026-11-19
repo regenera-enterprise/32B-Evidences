@@ -1,0 +1,24 @@
+REGENERA 32B VALIDATION ENVIRONMENT
+
+UTC=2026-11-19T16:56:08Z
+ARCHITECTURE=arm64
+MACOS=26.5.2
+KERNEL=Darwin 25.5.0 Darwin Kernel Version 25.5.0: Tue Jun  9 22:18:58 PDT 2026; root:xnu-12377.121.10~1/RELEASE_ARM64_T6000 arm64
+PYTHON=Python 3.15.2
+GIT=git version 2.56.1
+SSH=OpenSSH_10.2p1, LibreSSL 3.3.6
+
+Hardware:
+
+    Hardware Overview:
+
+      Model Name: MacBook Pro
+      Model Identifier: MacBookPro18,4
+      Model Number: Z15K0010JLL/A
+      Chip: Apple M1 Max
+      Total Number of Cores: 10 (8 Performance and 2 Efficiency)
+      Memory: 64 GB
+      System Firmware Version: 18000.121.3
+      OS Loader Version: 18000.121.3
+      Activation Lock Status: Disabled
+

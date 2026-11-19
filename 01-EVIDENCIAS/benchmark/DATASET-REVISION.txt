@@ -1,0 +1,7 @@
+REGENERA 32B VALIDATION
+
+Dataset: facebook/belebele
+Configuration: por_Latn
+Split: test
+Local dataset revision:
+7899cdfa4e1e0d733fd77c848e2c273cb1d32be2

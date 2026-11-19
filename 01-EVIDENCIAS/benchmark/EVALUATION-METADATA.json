@@ -1,0 +1,36 @@
+{
+  "project": "Regenera 32B Validation",
+  "task": "belebele_por_Latn",
+  "dataset": "facebook/belebele",
+  "dataset_configuration": "por_Latn",
+  "split": "test",
+  "num_fewshot": 0,
+  "output_type": "multiple_choice",
+  "samples": 900,
+  "correct": 751,
+  "accuracy": 0.8344444444444444,
+  "accuracy_percent": 83.44444444444444,
+  "accuracy_normalized": 0.8344444444444444,
+  "accuracy_stderr": 0.012396262021376064,
+  "recorded_model_adapter": "RecordedMLX",
+  "recorded_model_args": null,
+  "lm_eval_version": "0.4.14.dev0",
+  "transformers_version": "5.23.0",
+  "evaluation_git_hash": null,
+  "random_seed": 42,
+  "numpy_seed": 42,
+  "torch_seed": 42,
+  "fewshot_seed": 42,
+  "tokenizer_pad_token": [
+    null,
+    "None"
+  ],
+  "tokenizer_eos_token": [
+    "<|im_end|>",
+    "100265"
+  ],
+  "tokenizer_bos_token": [
+    null,
+    "None"
+  ]
+}

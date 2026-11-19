@@ -1,0 +1,40 @@
+REGENERA 32B VALIDATION
+
+Benchmark:
+Belebele
+
+Task:
+belebele_por_Latn
+
+Dataset:
+facebook/belebele
+
+Configuration:
+por_Latn
+
+Split:
+test
+
+Evaluation mode:
+zero-shot
+
+Output:
+multiple_choice
+
+Samples:
+900
+
+Correct:
+751
+
+Accuracy:
+0.8344444444444444
+
+Accuracy percentage:
+83.44444444444444%
+
+Complete evaluation record:
+benchmark/belebele_por_Latn.json
+
+Aggregate metrics:
+benchmark/belebele_por_Latn_metricas.json
